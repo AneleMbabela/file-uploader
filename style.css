@@ -11,12 +11,12 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #6990F2;
+    background: #9aeea7;
 }
 
 ::selection{
     color: #fff;
-    background: #6990F2;
+    background: #9aeea7;
 }
 .wrapper{
     width: 430px;
@@ -26,7 +26,7 @@ body{
     box-shadow: 7px 7px 12px rgba(0,0,0,0.05);
 }
 .wrapper header{
-    color: #6990F2;
+    color: #9aeea7;
     font-size: 27px;
     font-weight: 600;
     text-align: center;
@@ -39,10 +39,10 @@ body{
     justify-content: center;
     flex-direction: column;
     border-radius: 5px;
-    border: 2px dashed #6990F2;
+    border: 2px dashed #9aeea7;
 }
 form :where(i, p) {
-    color: #6990F2;
+    color: #9aeea7;
 }
 form i{
     font-size: 50px;
@@ -63,7 +63,7 @@ section .row{
     justify-content: space-between;
 }
 section .row i{
-    color: #6990F2;
+    color: #9aeea7;
     font-size: 30px;
 }
 section .details span{
@@ -89,7 +89,7 @@ section .details span{
 .content .progess-bar .progress{
     height: 100%;
     width: 0%;
-    background: #6990F2;
+    background: #9aeea7;
     border-radius: inherit;
 }
 .upload-area{
